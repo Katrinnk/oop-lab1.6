@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Z:\university\ооп\програми\1.6\Real.h(14,36): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1.6\Real.h(15,36): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1.6\Real.h(17,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\university\ооп\програми\1.6\Real.h(18,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  1.6.vcxproj -> Z:\university\ооп\програми\1.6\Debug\1.6.exe

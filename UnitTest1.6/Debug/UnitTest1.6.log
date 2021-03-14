@@ -1,0 +1,9 @@
+﻿  UnitTest1.6.cpp
+Z:\university\ооп\програми\1.6\Real.h(14,36): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1.6\Real.h(15,36): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1.6\Real.h(17,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\university\ооп\програми\1.6\Real.h(18,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\university\ооп\програми\1.6\Real.cpp(49,14): warning C4101: y_2: неиспользованная локальная переменная
+Z:\university\ооп\програми\1.6\Real.cpp(49,9): warning C4101: y_1: неиспользованная локальная переменная
+Z:\university\ооп\програми\1.6\UnitTest1.6\UnitTest1.6.cpp(18,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  UnitTest1.6.vcxproj -> Z:\university\ооп\програми\1.6\Debug\UnitTest1.6.dll
